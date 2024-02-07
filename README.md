@@ -1,2 +1,1 @@
-# odin-react-cv-app
-React CV app
+![screenshot](image.png)
